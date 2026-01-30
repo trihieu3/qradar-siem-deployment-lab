@@ -24,6 +24,7 @@ The lab environment consists of the following components:
 - All devices send logs to QRadar using supported log collection methods.
 
 4. Step-by-Step Lab Implementation
+
 Step 1: Log Source Collection
 In this step, QRadar is configured to collect logs from multiple security devices.
 Log Sources included:
