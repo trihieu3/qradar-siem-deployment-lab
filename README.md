@@ -35,8 +35,7 @@ Log sources are added in QRadar using the appropriate log source type and protoc
 
 Step 2: Log Parsing and Normalization
 After logs are collected, QRadar parses incoming events based on the log source type.
-Parsing helps QRadar extract important fields such as source IP, destination IP, username, and event type
-Correct log source selection ensures accurate parsing
+Parsing helps QRadar extract important fields such as source IP, destination IP, username, and event type Correct log source selection ensures accurate parsing
 Parsed events are automatically normalized into QRadar event categories
 Proper parsing is critical for effective rule creation and threat detection.
 
